@@ -13,7 +13,7 @@ Desafios Java - Mayo 2017
 </head>
 <body>
 <h1>Desafíos Java</h1>
-<h2>Consigna para el desafío 01</h2>
+<h2>Consigna para el desafío des01</h2>
 <p>
     <i>Consultas a desafios@xeven.com.ar</i>
 </p>
