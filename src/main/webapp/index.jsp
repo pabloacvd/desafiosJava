@@ -12,7 +12,7 @@ Desafios Java - Mayo 2017
     <link rel="stylesheet" href="./estilos/estilo.css" />
 </head>
 <body>
-<h1>Desafíos Java</h1>
+<h1>Desafíos Java - Solución a des01</h1>
 <h2>Consigna para el desafío des01</h2>
 <p>
     <i>Consultas a desafios@xeven.com.ar</i>
@@ -28,6 +28,8 @@ Desafios Java - Mayo 2017
     <li>Compartir la URL de heroku generada, con el proyecto funcionando.</li>
     <li>C'est tout!</li>
 </ol>
+<h3><i>Para este desafío la solución es única, tienen que generar una URL como ésta con un proyecto propio creado en Java</i></h3>
+<h4><i>En los próximos desafíos verán que las soluciones ya no serán únicas y dependerán de las decisiones que tome cada uno.</i></h4>
 <p>
     <i>XEVEN Informática</i>
     <br/>
