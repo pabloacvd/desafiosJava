@@ -1,3 +1,5 @@
 target
 tomcat.5000/
 tomcat.8080/
+.DS_Store
+.idea/vcs.xml

@@ -20,12 +20,10 @@ Desafios Java - Mayo 2017
 
 <h3>Primer desafío</h3>
 <ol>
-    <li> Crear un proyecto en un IDE de su elección (sugiero intellij).</li>
-    <li>Clonar <a href="https://github.com/pabloxeven/desafiosJava">este repositorio</a> y configurar el proyecto de forma local.</li>
-    <li>Agregar un Web Application Server (GlassFish, Tomcat u otro).</li>
-    <li>Correr el proyecto en local y asegurarse de que todo funciona bien.</li>
-    <li>Analizar la estructura del proyecto y comprender cada archivo y su función.</li>
-    <li>Crear una cuenta en Heroku.com, conectar con Git y automatizar el deployment con el branch Master de su repo.</li>
+    <li>Crear un proyecto en un IDE de su elección (sugiero intellij), desde cero o clonando <a href="https://github.com/pabloxeven/desafiosJava">este repositorio</a>.</li>
+    <li>Agregar un Web Application Server (sugiero GlassFish) y Maven (v3).</li>
+    <li>Agregar un index.jsp y correr el proyecto en local.</li>
+    <li>Crear una cuenta en Heroku.com, conectar con Github y automatizar el deployment con el branch Master de su repo o usar el Git de Heroku.</li>
     <li>Subir el contenido a su cuenta en heroku.</li>
     <li>Compartir la URL de heroku generada, con el proyecto funcionando.</li>
     <li>C'est tout!</li>
