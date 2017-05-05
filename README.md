@@ -7,6 +7,8 @@ Se responderán dudas puntuales sobre la consigna o cómo encarar un problema.
 
 No se responderán dudas técnicas que puedan resolver ustedes mismos con una búsqueda en StackOverflow o un video en YouTube.
 
+### ¡No olviden registrarse! [https://goo.gl/forms/ziYeCU3iQ9PjF2PG2](https://goo.gl/forms/ziYeCU3iQ9PjF2PG2)
+
 ## Primer desafío
 La idea es crear una aplicación web simple que corra en Heroku.
 
